@@ -1,6 +1,6 @@
 # anonchat
 
-List anon chats:
+List of anon chats without registration:
 
 | Name      | Endpoint                                         | Local |
 | --------- | ------------------------------------------------ | ----- |

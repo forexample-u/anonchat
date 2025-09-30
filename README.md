@@ -9,3 +9,5 @@ List of anon chats without registration:
 | demoscene | https://tauceti.nhost.me/demoscene/              | RU    |
 | tlk       | https://tlk.io/kek                               | RU    |
 | tlk       | https://tlk.io/www                               | ENG   |
+| 505 YOU   | https://xxxx.winning-information.com/?p=239      | ENG   |
+| %20Unsent | https://404.jodi.org/ae/                         | ENG   |
